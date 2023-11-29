@@ -3,7 +3,7 @@ title: "Hello New World"
 date: 2023-11-28
 draft: false
 ---
-![society and the future](my-blog/images/society.png) 
+![society and the future](images/society.png) 
 
 # Hello New World: A Manifesto For the Future
 
