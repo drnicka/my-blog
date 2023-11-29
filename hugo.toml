@@ -1,0 +1,4 @@
+baseURL = 'https://www.nickalmond.net/'
+languageCode = 'en-us'
+theme = 'smol'
+title = "Nick Almond's Website"
